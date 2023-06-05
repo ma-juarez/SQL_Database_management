@@ -1,4 +1,6 @@
 # SQL_Database_management
+This documents were created and used in 2020 for the Database course in the Universidad Politécnica de Madrid
+
 The code and database included are part of the final project for the Data Bases course. The project focuses around programmatic access to SQL databases. The project  consists of a script that contains the Python code of the program to access the database included. It is structured with a main menu that allows the user to choose a type of query to perform on the disnet_drugslayer database, as well as deletions, insertions, and modifications. This menu functions through a function that allows returning to the main menu from submenus. The menu is in Spanish (required by the course).
 
 
